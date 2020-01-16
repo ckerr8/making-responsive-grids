@@ -1,4 +1,4 @@
-.gridd {
+.grid {
   display: flex;
   flex-wrap: wrap;
 }
@@ -7,7 +7,7 @@
   width: 100%;
 }
 
-@media only screen and (min-wifth: 25em) {
+@media only screen and (min-width: 25em) {
 
   .s-1 {
     width: 100%;
